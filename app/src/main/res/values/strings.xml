@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1-1-arregloCadenaMasLarga</string>
+    <string name="item_arreglo"></string>
+    <string name="agregar_texto">Agregar Texto</string>
+    <string name="arreglo_original">Arreglo Original:</string>
+    <string name="arreglo_nuevo">Arreglo de palabras mas largas:</string>
+    <string name="crear_arreglo">Crear Arreglo</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
